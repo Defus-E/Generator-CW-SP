@@ -1,4 +1,4 @@
-# generator-cw-sp [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# generator-cw-sp [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]
 
 ## Installation
 
